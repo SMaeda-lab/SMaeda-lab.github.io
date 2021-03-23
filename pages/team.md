@@ -5,7 +5,7 @@ title: Team
 
 ## 教員<br>
 <div align="center">
-<img width="100px" src="https://github.com/SMaeda-lab/SMaeda-lab.github.io/blob/draft/assets/img/shuntamaeda.jpg"><br>
+<img width="100px" src="assets/img/shuntamaeda.jpg"><br>
 前田駿太（MAEDA, Shunta）</div><br>
 [所属機関Webサイト](https://www.sed.tohoku.ac.jp/laboratory/detail---id-42.html)<br>
 [Researchmap](https://researchmap.jp/maeda_s)<br>
