@@ -5,10 +5,8 @@ title: Achievements
 ＊編集中
 
 ## 学術論文（学会誌，査読有）
-<details><summary>表示</summary><div>
+<details><summary>表示</summary>
 
-<pre>
-<code>
 1. Maeda, S., Sato, T., Kanai, Y., Blackie, R. A., & Kocovski, N. L. (2021). Translation and validation of the Japanese version of the Trait and State Post-Event Processing Inventory. Japanese Psychological Research. https://doi.org/10.1111/jpr.12322<br>
 1. 髙橋健人・前田駿太（2020）．てんかん患者におけるソーシャルサポートとQuality of Lifeとの関係：系統的レビュー　ストレスマネジメント研究，16，74-75．<br>
 1. 前田 駿太・趙 智勇・嶋田 洋徳（2020）．中国人留学生におけるストレスコーピングとストレス反応の実態：中国人大学生および日本人大学生との比較　ストレスマネジメント研究，16，68-69．<br> 
@@ -22,22 +20,15 @@ title: Achievements
 1. Maeda, S., Shimada, H., Sato, T., Tashiro, K., & Tanaka, Y. (2017). Translation and initial validation of the Japanese version of the self-beliefs related to social anxiety scale. Psychological Reports, 120, 305-318.<br>
 1. 前田駿太・増田悠斗・佐藤友哉・嶋田洋徳（2016）．社交不安症における心理的ストレッサーに対するコルチゾール反応：メタ分析による検討　不安症研究, 8, 46-57．<br>
 1. 佐藤友哉・橋本　塁・前田駿太・山下　歩・嶋田洋徳・大月　友（2015）．異なる言語刺激を用いた脱フュージョン方略および言語刺激に対する曝露が不安症状に与える効果の差異の検討　行動医学研究，21，99-108．<br>
-</pre>
-</code>
 
-
-</div></details>
+</details>
 
 ## 著書
 <details><summary>表示</summary><div>
 
-<pre>
-<code>
 1. 前田 駿太（2019）．「ストレスの生理学的理解」　日本認知・行動療法学会（編）　認知行動療法事典　丸善出版<br>
 1. 前田 駿太・嶋田 洋徳（2019）．「ライフイベント理論（ストレス刺激説）」　日本健康心理学会（編）　健康心理学事典　丸善出版<br>
 1. 前田 駿太・嶋田 洋徳（2019）．「うつ病の行動モデルの基礎研究」　日本認知・行動療法学会（編）　認知行動療法事典　丸善出版<br>
 1. 前田 駿太（2016）．「社交不安症／社交不安障害」　他８項目　松崎朝樹（監訳）精神科診断戦略―モリソン先生のDSM-5徹底攻略case130―　医学書院<br>
-</pre>
-</code>
 
 </div></details>
