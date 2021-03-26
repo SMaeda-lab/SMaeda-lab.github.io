@@ -5,7 +5,7 @@ title: Achievements
 ＊編集中
 
 ## 学術論文（学会誌，査読有）
-<details><summary>表示</summary><div>
+<details><summary>▼表示</summary><div>
   
 1. Maeda, S., Sato, T., Kanai, Y., Blackie, R. A., & Kocovski, N. L. (2021). Translation and validation of the Japanese version of the Trait and State Post-Event Processing Inventory. Japanese Psychological Research. https://doi.org/10.1111/jpr.12322
 1. 髙橋健人・前田駿太（2020）．てんかん患者におけるソーシャルサポートとQuality of Lifeとの関係：系統的レビュー　ストレスマネジメント研究，16，74-75．
@@ -23,3 +23,12 @@ title: Achievements
 
 </div></details>
 
+## 著書
+<details><summary>▼表示</summary><div>
+  
+1. 前田 駿太（2019）．「ストレスの生理学的理解」　日本認知・行動療法学会（編）　認知行動療法事典　丸善出版
+1. 前田 駿太・嶋田 洋徳（2019）．「ライフイベント理論（ストレス刺激説）」　日本健康心理学会（編）　健康心理学事典　丸善出版
+1. 前田 駿太・嶋田 洋徳（2019）．「うつ病の行動モデルの基礎研究」　日本認知・行動療法学会（編）　認知行動療法事典　丸善出版
+1. 前田 駿太（2016）．「社交不安症／社交不安障害」　他８項目　松崎朝樹（監訳）精神科診断戦略―モリソン先生のDSM-5徹底攻略case130―　医学書院
+
+</div></details>
