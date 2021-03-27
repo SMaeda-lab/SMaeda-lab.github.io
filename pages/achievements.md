@@ -6,9 +6,10 @@ title: Achievements
 
 ## 学術論文（学会誌，査読有）
 <details><summary>表示</summary><div>
-
-1. Maeda, S., Sato, T., Kanai, Y., Blackie, R. A., & Kocovski, N. L. (2021). Translation and validation of the Japanese version of the Trait and State Post-Event Processing Inventory. Japanese Psychological Research. https://doi.org/10.1111/jpr.12322  
-1. 髙橋 健人・前田 駿太（2020）．てんかん患者におけるソーシャルサポートとQuality of Lifeとの関係：系統的レビュー　ストレスマネジメント研究，16，74-75．  
+<ol>
+<li>Maeda, S., Sato, T., Kanai, Y., Blackie, R. A., & Kocovski, N. L. (2021). Translation and validation of the Japanese version of the Trait and State Post-Event Processing Inventory. Japanese Psychological Research. https://doi.org/10.1111/jpr.12322</li>  
+<li>髙橋 健人・前田 駿太（2020）．てんかん患者におけるソーシャルサポートとQuality of Lifeとの関係：系統的レビュー　ストレスマネジメント研究，16，74-75．</li>
+</ol>  
 1. 前田 駿太・趙 智勇・嶋田 洋徳（2020）．中国人留学生におけるストレスコーピングとストレス反応の実態：中国人大学生および日本人大学生との比較　ストレスマネジメント研究，16，68-69．  
 1. Ogishima, H., Maeda, S., Tanaka, Y., & Shimada, H. (2020). Effects of depressive symptoms, feelings, and interoception on reward-based decision-making: Investigation using reinforcement learning model. Brain Sciences, 10, 508.  
 1. 森石 千尋・前田 駿太・荻島 大凱・嶋田 洋徳（2020）．社交不安傾向者に対するディストラクションがpost-event processingに及ぼす影響　認知療法研究，13，59-69．  
