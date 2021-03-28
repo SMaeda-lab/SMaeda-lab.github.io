@@ -43,6 +43,14 @@ title: Achievements
 </ol>
 </div></details>
 
+## その他の論文・報告書・コラム等
+<details><summary>表示</summary><div>
+<ol>
+<li>前田 駿太（2017）．若手科学者のネットワーク形成の現状について　学術の動向，22，59．</li>
+<li>前田 駿太・嶋田 洋徳（2015）．臨床心理学からみた「うそ」の理解　心理学ワールド，71，17–20．</li>
+</ol>
+</div></details>
+
 ## 著書
 <details><summary>表示</summary><div>
 <ol>
@@ -52,3 +60,4 @@ title: Achievements
 <li>前田 駿太（2016）．「社交不安症／社交不安障害」　他８項目　松崎朝樹（監訳）精神科診断戦略―モリソン先生のDSM-5徹底攻略case130―　医学書院</li>
 </ol>
 </div></details>
+
