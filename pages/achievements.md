@@ -61,3 +61,44 @@ title: Achievements
 </ol>
 </div></details>
 
+## 学会発表
+<details><summary>表示</summary><div>
+<ol>
+<li>前田 駿太・荻島 大凱・嶋田 洋徳（2018）．心理社会的ストレッサーに対するコルチゾール反応は心拍知覚を促進する　日本心理学会第82回大会発表論文集，268．</ol>
+<li>前田 駿太（2018）．エビデンスに基づく保健医療分野の心理学的支援　日本健康心理学会第31回大会・日本ヒューマンケア心理学会第20回大会合同大会発表論文集，30．</ol>
+<li>前田 駿太・嶋田 洋徳（2018）．社交不安傾向者における反すう思考がコルチゾール反応の回復に及ぼす影響　第10回日本不安症学会学術大会抄録集，114．</ol>
+<li>荻島 大凱・前田 駿太・嶋田 洋徳（2017）．抑うつ症状と内受容感覚知覚の正確さの関連性に関する最近の研究動向　ストレス科学，32，173．</ol>
+<li>前田 駿太・佐藤 友哉・嶋田 洋徳（2017）．Post-Event Processingが社交不安の維持に及ぼす影響：短期縦断調査による検討　日本心理学会第81回大会発表論文集，269．</ol>
+<li>前田 駿太・増田 悠斗・嶋田 洋徳（2017）．中国人留学生のストレス反応に影響を及ぼす要因：文化的差異の視点から　日本健康心理学会第30回記念大会プログラム，31．</ol>
+<li>Maeda, S., & Shimada, H. (2017). Post-event rumination and impaired cortisol recovery following social-evaluative stressors in social anxiety. 31st Conference of the EHPS Conference Abstracts, 455.</ol>
+<li>前田 駿太・趙 智勇・嶋田 洋徳・森 和代（2017）.中国人留学生におけるストレスコーピングとストレス反応の関係：日本人大学生および中国人大学生との比較　日本ストレスマネジメント学会第16回学術大会・研修会プログラム・発表論文集，40．</ol>
+<li>Maeda, S., & Shimada, H. (2016). Cognitive processing and cortisol responses in social anxiety. International Journal of Psychology, 51(suppl), 95.</ol>
+<li>Maeda, S. (2016). Cortisol reactivity in social anxiety: Meta-analysis and underlying mechanisms. International Journal of Psychology, 51(suppl), 630.</ol>
+<li>Maeda, S., & Shimada, H. (2016). Changes in anticipatory processing predicts social anxiety and maladaptive beliefs: A short-term prospective study. 8th World Congress of Behavioural and Cognitive Therapies Congress Handbook, 70. </ol>
+<li>Ishii, M., Hirayama, E., Nomura, K., Maeda, S., & Shimada, H. (2016). Influence of identity status and self efficacy on vocational indecision in undergraduates. 8th World Congress of Behavioural and Cognitive Therapies Congress Handbook, 65.</ol>
+<li>前田 駿太・佐藤 友哉・嶋田 洋徳（2016）.社交不安における心理的ストレッサーに対するコルチゾール反応：メタ分析による検討　第８回日本不安症学会学術大会抄録集，122．</ol>
+<li>立花 美紀・前田 駿太・田中 佑樹・佐藤 友哉・嶋田 洋徳・小関 俊祐（2015）．社交不安傾向者の目標設定がパフォーマンスの自己評価に与える影響　日本認知・行動療法学会第41回大会プログラム・抄録集，224–225．</ol>
+<li>伊藤 定衛・佐藤 友哉・田中 佑樹・前田 駿太・嶋田 洋徳（2015）．吃音者に対するアクセプタンス方略の獲得を目的とした心理学的介入の効果　日本認知・行動療法学会第41回大会プログラム・抄録集，116–117．</ol>
+<li>猪俣 菜津美・山下 歩・前田 駿太・田中 佑樹・佐藤 友哉・嶋田 洋徳（2015）．他者評価懸念の様相による社交不安の程度の差異　日本認知・行動療法学会第41回大会プログラム・抄録集，244–245．</ol>
+<li>前田 駿太・佐藤 友哉・嶋田 洋徳（2015）.社交不安の予測における解釈バイアスの効果：信念バイアスによる調整効果に着目した検討　日本心理学会第79回大会発表論文集，467．</ol>
+<li>森田 典子・蓑﨑 浩史・前田 駿太・嶋田 洋徳（2015）．親の養育行動に対する認知が中学生の社会的スキルおよび社交不安に及ぼす影響　日本ストレスマネジメント学会第14回学術大会・研修会論文集，32．</ol>
+<li>Tanaka, Y., Tanabe, Y., Maeda, S., Inoue, A., Sato, H., Ishikawa, S., & Shimada, H. (2015). The effect of the long-term camp program aimed at cultivating adaptive social behavior on the interpersonal self-efficacy, anxiety, and depression of school absentees. 5th Asian Cognitive Behavior Therapy Conference Abstract Proceedings, 118–120.</ol>
+<li>Shimada, H., Murata, M., Sensaki, J., Maeda, S., Yamashita, A., Sato, T., & Ishii, M. (2015). Time-dependent effects of cortisol on the bias of attention function. 5th Asian Cognitive Behavior Therapy Conference Abstract Proceedings, 141–143.</ol>
+<li>Tachibana, M., Maeda, S., Yamashita, A., Sato, T., Shimada, H., & Koseki, S. (2015). The effect of attainable goal-setting on self-appraisal in individuals with social anxiety. 5th Asian Cognitive Behavior Therapy Conference Abstract Proceedings, 137–138.</ol>
+<li>Masuda, Y., Maeda, S., Yamashita, A., Sato, T., & Shimada, H. (2015). Effect of exposure techniques using different stimulus presentation procedures on social anxiety. 5th Asian Cognitive Behavior Therapy Conference Abstract Proceedings, 79–80.</ol>
+<li>Maeda, S., Inomata, N., Masuda, Y., Tanaka, Y., Sato, T., & Shimada, H. (2015). Belief bias predicts dysfunctional beliefs related to social anxiety over time. 5th Asian Cognitive Behavior Therapy Conference Abstract Proceedings, 63–65.</ol>
+<li>山下 歩・佐藤 友哉・前田 駿太・田中 佑樹・嶋田 洋徳（2015）．他者からの評価の種類と注目量が社交不安の回避行動に及ぼす影響　第７回日本不安症学会学術大会抄録集，145．</ol>
+<li>田中 佑樹・斉藤 純輝・山下 歩・前田 駿太・佐藤 友哉・嶋田 洋徳（2015）．他者の視線方向の変化と文脈の差異が社交不安傾向者の回避行動に及ぼす影響　第７回日本不安症学会学術大会抄録集，144．</ol>
+<li>前田 駿太・佐藤 友哉・山下 歩・田中 佑樹・嶋田 洋徳（2015）．社交不安の予測における信念バイアスの効果　第７回日本不安症学会学術大会抄録集，141．</ol>
+<li>佐藤 友哉・山下 歩・前田 駿太・嶋田 洋徳・大月 友（2014）．回避機能の直接的および派生的な獲得が潜在指標と脳波指標に及ぼす影響　日本認知・行動療法学会第40回大会プログラム・抄録集，356–357．</ol>
+<li>前田 駿太・佐藤 友哉・山下 歩・田中 佑樹・嶋田 洋徳（2014）.日本語版Self-Beliefs related to Social Anxiety scale開発の試み　日本認知・行動療法学会第40回大会プログラム・抄録集，348–349．</ol>
+<li>山下 歩・佐藤 友哉・前田 駿太・田中 佑樹・嶋田 洋徳（2014）．社交不安における他者の視線の方向が表情の情報処理過程に及ぼす影響　日本認知・行動療法学会第40回大会プログラム・抄録集，346–347．</ol>
+<li>村田 美樹・佐藤 友哉・山下 歩・千先 純・前田 駿太・嶋田 洋徳（2014）．不快情動喚起の程度とコーピング方略の差異が方略の案出数に与える影響　日本認知・行動療法学会第40回大会プログラム・抄録集，254–255．</ol>
+<li>田中 佑樹・佐藤 友哉・前田 駿太・山下 歩・嶋田 洋徳（2014）．情動調整方略の差異とワーキングメモリ負荷の程度が不快情動の低減に及ぼす影響　日本認知・行動療法学会第40回大会プログラム・抄録集，186–187．</ol>
+<li>宇田川 詩帆・蓑﨑 浩史・森 彩香・川越 杏梨・前田 駿太・嶋田 洋徳（2014）．親子相互作用場面における親の視線および子どもへの働きかけに関する検討　日本認知・行動療法学会第40回大会プログラム・抄録集，146–147．</ol>
+<li>寺門 志保・野村 和孝・嶋田 洋徳・美根 早由里・前田 駿太・長縄 瑛子・大石 雅之（2014）．小中学校教員に対する機能分析研修の形式と教員の許容度が生徒指導における自己効力感および見立てと対応に及ぼす影響　日本認知・行動療法学会第40回大会プログラム・抄録集，134–135．</ol>
+<li>前田 駿太・佐藤 友哉・嶋田 洋徳（2013）．社交不安に対する注意バイアス修正訓練の効果に影響を及ぼす諸要因の検討　第29回日本ストレス学会学術総会，ストレス科学，28, 230．</ol>
+<li>Maeda, S., Nomura, M., Kanai, Y., & Shimada, H. (2013). Alexithymia mediates the relationship between social anxiety and attentional bias. The 4th Asian Cognitive Behavior Therapy Conference (CBT) Conference 2013 Tokyo Program, 56.</ol>
+</ol>
+</div></details>
+![image](https://user-images.githubusercontent.com/71489197/112739420-3e2b3580-8faf-11eb-996e-3228515c4308.png)
