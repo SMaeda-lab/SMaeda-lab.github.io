@@ -101,4 +101,6 @@ title: Achievements
 <li>Maeda, S., Nomura, M., Kanai, Y., & Shimada, H. (2013). Alexithymia mediates the relationship between social anxiety and attentional bias. The 4th Asian Cognitive Behavior Therapy Conference (CBT) Conference 2013 Tokyo Program, 56.</li>
 </ol>
 </div></details>
+<--
 ![image](https://user-images.githubusercontent.com/71489197/112739420-3e2b3580-8faf-11eb-996e-3228515c4308.png)
+-->
