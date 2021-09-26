@@ -65,7 +65,8 @@ title: Achievements
 ## 学会発表
 <details><summary>表示</summary><div>
 <ol>
-<li>髙橋 健人, 上埜 高志, 小川 舞美, 藤川 真由, 中里 信和, 前田 駿太（2020）．てんかん患者におけるソーシャルサポートとQOLの関連：ネットワーク分析を用いた検討　日本健康心理学会第33回バーチャル大会ポスター発表プログラム．</li>
+<li>髙橋 健人, 前田 駿太, 木村 美樹子, 佐藤 友哉（2021）．Web会議システムの導入に伴う労働者の負担感の内容分析　日本健康心理学会第33回バーチャル大会ポスター発表プログラム．</li>
+<li>髙橋 健人, 上埜 高志, 小川 舞美, 藤川 真由, 中里 信和, 前田 駿太（2020）．てんかん患者におけるソーシャルサポートとQOLの関連：ネットワーク分析を用いた検討　第19回日本ストレスマネジメント学会学術大会・研修会発表抄録集, 52-52．</li>
 <li>Maeda, S., Sato, T., Kanai, Y., Blackie, R. A., & Kocovski, N. L. (2019). Validation of the Trait and State Versions of the Post-Event Processing Inventory in the Japanese population with and without self-reported diagnostic status of social anxiety disorder.  WCBCT 2019 Abstract Book, 2, 28.</li>
 <li>前田 駿太・荻島 大凱・嶋田 洋徳（2018）．心理社会的ストレッサーに対するコルチゾール反応は心拍知覚を促進する　日本心理学会第82回大会発表論文集，268．</li>
 <li>前田 駿太（2018）．エビデンスに基づく保健医療分野の心理学的支援　日本健康心理学会第31回大会・日本ヒューマンケア心理学会第20回大会合同大会発表論文集，30．</li>
