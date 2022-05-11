@@ -7,6 +7,7 @@ title: Achievements
 ## 学術論文（学会誌，査読有）
 <details><summary>表示</summary><div>
 <ol>
+<li>Maeda, S., Moriishi, C., Ogishima, H., & Shimada, H. (2022). The effect of distraction versus post-event processing on cortisol recovery in individuals with elevated social anxiety. Comprehensive Psychoneuroendocrinology.</li>
 <li>Ishii, M., Ito, W., Karube, Y., Ogawa, Y., Tagawa, A., Maeda, S., & Sato, H. (2021). Effects of transdiagnostic group treatment for sleep disturbances in adult attention ‑ deficit / hyperactivity disorders and autistic spectrum disorder : a pilot study. Sleep and Biological Rhythms. https://doi.org/10.1007/s41105-021-00351-8</li>  
 <li>Moriishi, C., Shunta, M., Ogishima, H., & Shimada, H. (2021). Effects of cortisol on retrieval of extinction memory in individuals with social anxiety. Comprehensive Psychoneuroendocrinology, 7, 100060. https://doi.org/10.1016/j.cpnec.2021.100060</li>
 <li>Maeda, S., Sato, T., Kanai, Y., Blackie, R. A., & Kocovski, N. L. (2021). Translation and validation of the Japanese version of the Trait and State Post-Event Processing Inventory. Japanese Psychological Research. https://doi.org/10.1111/jpr.12322</li>  
