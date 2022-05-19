@@ -7,7 +7,7 @@ title: Achievements
 ## 学術論文（学会誌，査読有）
 <details><summary>表示</summary><div>
 <ol>
-<li>Maeda, S., Moriishi, C., Ogishima, H., & Shimada, H. (2022). The effect of distraction versus post-event processing on cortisol recovery in individuals with elevated social anxiety. Comprehensive Psychoneuroendocrinology.</li>
+<li>Maeda, S., Moriishi, C., Ogishima, H., & Shimada, H. (2022). The effect of distraction versus post-event processing on cortisol recovery in individuals with elevated social anxiety. Comprehensive Psychoneuroendocrinology, 11, 100142. https://doi.org/10.1016/j.cpnec.2022.100142</li>
 <li>前田 駿太・木村 美樹子・佐藤 友哉（2022）．Web会議システム導入に伴う労働者の負担感の変化：自由記述の共起ネットワーク分析による検討　ストレスマネジメント研究，18，2–12．
 </li>
 <li>Ishii, M., Ito, W., Karube, Y., Ogawa, Y., Tagawa, A., Maeda, S., & Sato, H. (2021). Effects of transdiagnostic group treatment for sleep disturbances in adult attention ‑ deficit / hyperactivity disorders and autistic spectrum disorder : a pilot study. Sleep and Biological Rhythms. https://doi.org/10.1007/s41105-021-00351-8</li>  
