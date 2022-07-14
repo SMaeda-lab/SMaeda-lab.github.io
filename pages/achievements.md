@@ -10,7 +10,7 @@ title: Achievements
 <li>Maeda, S. (in press). Trait and state self-compassion interactively predict cortisol recovery following an acute stress in healthy males. Psychoneuroendocrinology. </li>
 <li>Maeda, S., Sato, T., Kanai, Y., Blackie, R. A., & Kocovski, N. L. (2022). Translation and validation of the Japanese version of the Trait and State Post-Event Processing Inventory. Japanese Psychological Research, 64, 320-332. https://doi.org/10.1111/jpr.12322</li>  
 <li>Maeda, S., Moriishi, C., Ogishima, H., & Shimada, H. (2022). The effect of distraction versus post-event processing on cortisol recovery in individuals with elevated social anxiety. Comprehensive Psychoneuroendocrinology, 11, 100142. https://doi.org/10.1016/j.cpnec.2022.100142</li>
-<li>前田 駿太・木村 美樹子・佐藤 友哉（2022）．Web会議システム導入に伴う労働者の負担感の変化：自由記述の共起ネットワーク分析による検討　ストレスマネジメント研究，18，2–12．
+<li>前田 駿太・木村 美樹子・佐藤 友哉（2022）．Web会議システム導入に伴う労働者の負担感の変化：自由記述の共起ネットワーク分析による検討　ストレスマネジメント研究，18，2–12．https://doi.org/10.50904/sutomane.18.1_2
 </li>
 <li>Ishii, M., Ito, W., Karube, Y., Ogawa, Y., Tagawa, A., Maeda, S., Sato, H., Takahashi, T., Inomata, N., Narisawa, H., Takaesu, Y., Watanabe, K., & Okajima, I. (2021). Effects of transdiagnostic group treatment for sleep disturbances in adult attention ‑ deficit / hyperactivity disorders and autistic spectrum disorder : a pilot study. Sleep and Biological Rhythms. https://doi.org/10.1007/s41105-021-00351-8</li>  
 <li>Moriishi, C., Shunta, M., Ogishima, H., & Shimada, H. (2021). Effects of cortisol on retrieval of extinction memory in individuals with social anxiety. Comprehensive Psychoneuroendocrinology, 7, 100060. https://doi.org/10.1016/j.cpnec.2021.100060</li>
@@ -70,7 +70,10 @@ title: Achievements
 ## 学会発表
 <details><summary>表示</summary><div>
 <ol>
-<li>髙橋 健人, 前田 駿太, 木村 美樹子, 佐藤 友哉（2021）．Web会議システムの導入に伴う労働者の負担感の内容分析　第19回日本ストレスマネジメント学会学術大会・研修会発表抄録集, 52-52．</li>
+<li>前田 駿太（2022）．社交不安症状がPost-Event Processingと飲酒動機を介して飲酒量に及ぼす影響 　第14回日本不安症学会学術大会プログラム・抄録集, 130．</li>
+<li>前田 駿太（2021）．社交不安傾向者の不安反応はオンライン会話時に緩和されるか ―日本人労働者における検討― 　日本健康心理学会第34回大会発表論文集, 82．</li>
+<li>髙橋 健人・前田 駿太（2021）．新型コロナウィルスに関する勤め先への不満のテキスト分析　日本健康心理学会第34回大会発表論文集, 43．</li>
+<li>髙橋 健人, 前田 駿太, 木村 美樹子, 佐藤 友哉（2021）．Web会議システムの導入に伴う労働者の負担感の内容分析　第19回日本ストレスマネジメント学会学術大会・研修会発表抄録集, 52．</li>
 <li>髙橋 健人, 上埜 高志, 小川 舞美, 藤川 真由, 中里 信和, 前田 駿太（2020）．てんかん患者におけるソーシャルサポートとQOLの関連：ネットワーク分析を用いた検討　日本健康心理学会第33回バーチャル大会ポスター発表プログラム．</li>
 <li>Maeda, S., Sato, T., Kanai, Y., Blackie, R. A., & Kocovski, N. L. (2019). Validation of the Trait and State Versions of the Post-Event Processing Inventory in the Japanese population with and without self-reported diagnostic status of social anxiety disorder.  WCBCT 2019 Abstract Book, 2, 28.</li>
 <li>前田 駿太・荻島 大凱・嶋田 洋徳（2018）．心理社会的ストレッサーに対するコルチゾール反応は心拍知覚を促進する　日本心理学会第82回大会発表論文集，268．</li>
