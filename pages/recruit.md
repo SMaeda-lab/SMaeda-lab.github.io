@@ -1,6 +1,6 @@
 ---
 layout: misc
-title: recruit
+title: Recruit
 ---
 
 
