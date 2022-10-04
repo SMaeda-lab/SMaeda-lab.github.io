@@ -12,7 +12,7 @@ title: Recruit
 <a href="https://github.com/SMaeda-lab/SMaeda-lab.github.io/raw/gh-pages/assets/documents/registration.pdf" target="_blank">＜研究参加登録システム利用案内＞</a><br>
 
 ## 現在参加募集中の研究
-・セルフヘルプ形式によるメンタルトレーニングの効果検証
+・セルフヘルプ形式によるメンタルトレーニングの効果検証<br>
 研究実施者：前田駿太（教育学研究科准教授，研究責任者），内山拓己（教育学研究科修士課程２年），藤澤廉（教育学部４年）<br>
 
 【研究内容】<br>
