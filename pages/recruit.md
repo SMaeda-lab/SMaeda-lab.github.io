@@ -11,6 +11,8 @@ title: Recruit
 研究参加希望の方は，下記の案内に従って，研究参加登録システム（SONAシステム）でアカウントを作成し，実験参加予約を入れてください。<br>
 <a href="https://github.com/SMaeda-lab/SMaeda-lab.github.io/raw/gh-pages/assets/documents/registration.pdf" target="_blank">＜研究参加登録システム利用案内＞</a><br>
 
+<a href="https://tohokused.sona-systems.com/" target="_blank">研究参加登録システム（SONAシステム）はこちら</a><br>
+
 ## 現在参加募集中の研究
 <b>・セルフヘルプ形式によるメンタルトレーニングの効果検証</b><br>
 研究実施者：前田駿太（教育学研究科准教授，研究責任者），内山拓己（教育学研究科修士課程２年），藤澤廉（教育学部４年）<br>
