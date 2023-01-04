@@ -7,6 +7,7 @@ title: Achievements
 ## 学術論文（学会誌，査読有）
 <details><summary>表示</summary><div>
 <ol>
+<li>Maeda, S. (in press). No differential responsiveness to face-to-face communication and video call in individuals with elevated social anxiety. Journal of Affective Disorders Reports.</li>
 <li>Maeda, S. (2022). Trait and state self-compassion interactively predict cortisol recovery following an acute stressor in healthy males. Psychoneuroendocrinology, 144, 105864. https://doi.org/10.1016/j.psyneuen.2022.105864</li>
 <li>Maeda, S., Sato, T., Kanai, Y., Blackie, R. A., & Kocovski, N. L. (2022). Translation and validation of the Japanese version of the Trait and State Post-Event Processing Inventory. Japanese Psychological Research, 64, 320-332. https://doi.org/10.1111/jpr.12322</li>  
 <li>Maeda, S., Moriishi, C., Ogishima, H., & Shimada, H. (2022). The effect of distraction versus post-event processing on cortisol recovery in individuals with elevated social anxiety. Comprehensive Psychoneuroendocrinology, 11, 100142. https://doi.org/10.1016/j.cpnec.2022.100142</li>
