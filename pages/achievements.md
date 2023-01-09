@@ -7,6 +7,7 @@ title: Achievements
 ## 学術論文（学会誌，査読有）
 <details><summary>表示</summary><div>
 <ol>
+<li>Maeda, S. (2023). No differential responsiveness to face-to-face communication and video call in individuals with elevated social anxiety. Journal of Affective Disorders Reports, 11, 100467.https://doi.org/10.1016/j.jadr.2023.100467</li>
 <li>Maeda, S. (2022). Trait and state self-compassion interactively predict cortisol recovery following an acute stressor in healthy males. Psychoneuroendocrinology, 144, 105864. https://doi.org/10.1016/j.psyneuen.2022.105864</li>
 <li>Maeda, S., Sato, T., Kanai, Y., Blackie, R. A., & Kocovski, N. L. (2022). Translation and validation of the Japanese version of the Trait and State Post-Event Processing Inventory. Japanese Psychological Research, 64, 320-332. https://doi.org/10.1111/jpr.12322</li>  
 <li>Maeda, S., Moriishi, C., Ogishima, H., & Shimada, H. (2022). The effect of distraction versus post-event processing on cortisol recovery in individuals with elevated social anxiety. Comprehensive Psychoneuroendocrinology, 11, 100142. https://doi.org/10.1016/j.cpnec.2022.100142</li>
@@ -70,6 +71,9 @@ title: Achievements
 ## 学会発表
 <details><summary>表示</summary><div>
 <ol>
+<li>川原 美希・本多 奈美・前田 駿太（2022）．大学生における社交不安症に関する知識と対処法の認識　日本健康心理学会第35回大会発表論文集，74．</li>
+<li>前田 駿太（2022）．セルフ・コンパッションがストレス反応の回復に及ぼす効果 　日本ストレスマネジメント学会第20回学術大会・研修会プログラム・抄録集, 53．</li>
+<li>Takahashi, K., Ogawa, M., Fujikawa, M., Nakasato, N., & Maeda, S. (2022). Help-seeking toward mental health professionals among patients with epilepsy. 36th Annual Conference of the European Health Psychology Society Abstracts, 462.</li>
 <li>前田 駿太（2022）．社交不安症状がPost-Event Processingと飲酒動機を介して飲酒量に及ぼす影響 　第14回日本不安症学会学術大会プログラム・抄録集, 130．</li>
 <li>前田 駿太（2021）．社交不安傾向者の不安反応はオンライン会話時に緩和されるか ―日本人労働者における検討― 　日本健康心理学会第34回大会発表論文集, 82．</li>
 <li>髙橋 健人・前田 駿太（2021）．新型コロナウィルスに関する勤め先への不満のテキスト分析　日本健康心理学会第34回大会発表論文集, 43．</li>

@@ -12,6 +12,7 @@ menu:
 - {name: 'Team', folder: 'pages', file: 'team.html'}
 - {name: 'Achievements', folder: 'pages', file: 'achievements.html'}
 - {name: 'Resources', folder: 'pages', file: 'resources.html'}
+- {name: 'Recruit', folder: 'pages', file: 'recruit.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
