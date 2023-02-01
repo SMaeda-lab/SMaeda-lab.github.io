@@ -7,6 +7,8 @@ title: Achievements
 ## 学術論文（学会誌，査読有）
 <details><summary>表示</summary><div>
 <ol>
+<li>佐藤 友哉・田中 恒彦・前田 駿太（2023）．制止学習アプローチに基づいたエクスポージャーの研究動向　心理学研究．https://doi.org/10.4992/jjpsy.94.21405</li>
+<li>森石 千尋・前田 駿太・嶋田 洋徳（2023）．セルフ・コンパッションの向上を目的とした短期介入が負担感の知覚と所属感の減弱に及ぼす影響　行動医学研究，27，30–38．https://doi.org/10.11331/jjbm.27.30</li>
 <li>Maeda, S. (2023). No differential responsiveness to face-to-face communication and video call in individuals with elevated social anxiety. Journal of Affective Disorders Reports, 11, 100467.https://doi.org/10.1016/j.jadr.2023.100467</li>
 <li>Maeda, S. (2022). Trait and state self-compassion interactively predict cortisol recovery following an acute stressor in healthy males. Psychoneuroendocrinology, 144, 105864. https://doi.org/10.1016/j.psyneuen.2022.105864</li>
 <li>Maeda, S., Sato, T., Kanai, Y., Blackie, R. A., & Kocovski, N. L. (2022). Translation and validation of the Japanese version of the Trait and State Post-Event Processing Inventory. Japanese Psychological Research, 64, 320-332. https://doi.org/10.1111/jpr.12322</li>  
@@ -33,6 +35,7 @@ title: Achievements
 ## 大学紀要等
 <details><summary>表示</summary><div>
 <ol>
+<li>髙橋 健人・前田 駿太（2022）．てんかん患者におけるメンタルヘルス専門家への援助要請の研究動向　東北大学大学院教育学研究科研究年報，71，115–123．</li>
 <li>森石 千尋・山下 歩・前田 駿太・田中 佑樹・嶋田 洋徳（2019）．表情および社会的文脈の変化に着目した社交不安の程度と回避行動との関連：映像刺激を用いた少人数の社交不安傾向者によるパイロットスタディ　人間科学研究（早稲田大学人間科学学術院），32，245-251．</li>
 <li>森石 千尋・山下 歩・前田 駿太・荻島 大凱・嶋田 洋徳（2018）．他者評価懸念の機能的側面が社交不安の程度に及ぼす影響　早稲田大学臨床心理学研究，18，37-44．</li>
 <li>深澤 克二・前田 駿太・荻島 大凱・嶋田 洋徳（2018）．社交不安傾向者への内部感覚エクスポージャーの効果　早稲田大学臨床心理学研究，18，51-57．</li>
