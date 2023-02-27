@@ -74,6 +74,7 @@ title: Achievements
 ## 学会発表
 <details><summary>表示</summary><div>
 <ol>
+<li>森谷 菜々絵・前田 駿太・吉田 沙蘭（2023）．家族介護者の関わりが小児IBD患者の精神的健康に及ぼす影響　第23回日本小児IBD研究会プログラム・抄録集，78．<li>
 <li>川原 美希・本多 奈美・前田 駿太（2022）．大学生における社交不安症に関する知識と対処法の認識　日本健康心理学会第35回大会発表論文集，74．</li>
 <li>前田 駿太（2022）．セルフ・コンパッションがストレス反応の回復に及ぼす効果 　日本ストレスマネジメント学会第20回学術大会・研修会プログラム・抄録集, 53．</li>
 <li>Takahashi, K., Ogawa, M., Fujikawa, M., Nakasato, N., & Maeda, S. (2022). Help-seeking toward mental health professionals among patients with epilepsy. 36th Annual Conference of the European Health Psychology Society Abstracts, 462.</li>
