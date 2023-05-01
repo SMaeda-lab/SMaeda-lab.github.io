@@ -2,11 +2,12 @@
 layout: misc
 title: Achievements
 ---
-＊編集中
 
 ## 学術論文（学会誌，査読有）
 <details><summary>表示</summary><div>
 <ol>
+
+<li>Kang, R. N., Tanaka, Y., Sato, T., Maeda, S., & Shimada, H. (2023). The development of a Japanese version of the State Cognitive Fusion Questionnaire. Japanese Psychological Research.  https://doi.org/10.1111/jpr.12453</li>  
 <li>佐藤 友哉・田中 恒彦・前田 駿太（2023）．制止学習アプローチに基づいたエクスポージャーの研究動向　心理学研究．https://doi.org/10.4992/jjpsy.94.21405</li>
 <li>森石 千尋・前田 駿太・嶋田 洋徳（2023）．セルフ・コンパッションの向上を目的とした短期介入が負担感の知覚と所属感の減弱に及ぼす影響　行動医学研究，27，30–38．https://doi.org/10.11331/jjbm.27.30</li>
 <li>Maeda, S. (2023). No differential responsiveness to face-to-face communication and video call in individuals with elevated social anxiety. Journal of Affective Disorders Reports, 11, 100467.https://doi.org/10.1016/j.jadr.2023.100467</li>
@@ -74,6 +75,7 @@ title: Achievements
 ## 学会発表
 <details><summary>表示</summary><div>
 <ol>
+<li>森谷 菜々絵・前田 駿太・吉田 沙蘭（2023）．家族介護者の関わりが小児IBD患者の精神的健康に及ぼす影響　第23回日本小児IBD研究会プログラム・抄録集，78．<li>
 <li>川原 美希・本多 奈美・前田 駿太（2022）．大学生における社交不安症に関する知識と対処法の認識　日本健康心理学会第35回大会発表論文集，74．</li>
 <li>前田 駿太（2022）．セルフ・コンパッションがストレス反応の回復に及ぼす効果 　日本ストレスマネジメント学会第20回学術大会・研修会プログラム・抄録集, 53．</li>
 <li>Takahashi, K., Ogawa, M., Fujikawa, M., Nakasato, N., & Maeda, S. (2022). Help-seeking toward mental health professionals among patients with epilepsy. 36th Annual Conference of the European Health Psychology Society Abstracts, 462.</li>
