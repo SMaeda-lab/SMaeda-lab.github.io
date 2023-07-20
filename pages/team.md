@@ -13,12 +13,12 @@ title: Team
 [Web of Science](https://www.webofscience.com/wos/author/record/1755327)<br>
 
 ## 2023年度構成員<br>
-PD：1名<br>
+日本学術振興会特別研究員PD：1名<br>
 博士後期課程：1名<br>
 修士課程2年：3名<br>
 修士課程1年：2名<br>
 学部4年：5名<br>
-学部3年：未配属<br>
+学部3年：2名<br>
 学部研究生：1名<br>
 ## 卒業論文・修士論文のテーマ<br>
 ### 2022年度<br>
