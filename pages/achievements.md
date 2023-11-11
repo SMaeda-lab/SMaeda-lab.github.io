@@ -6,7 +6,8 @@ title: Achievements
 ## 学術論文（学会誌，査読有）
 <details><summary>表示</summary><div>
 <ol>
-
+<li>Takahashi,K., Fujikawa, M., Ueno, T., Ogawa, M., Nakasato, N., & Maeda, S. (2023) Network analysis of the relationship between social support and quality of life in patients with epilepsy. Epilepsy and Behavior, 149, 109504. https://doi.org/10.1016/j.yebeh.2023.109504</ol>li>
+<li>Kang, R. N., Tanaka, Y., Sato, T., Maeda, S., & Shimada, H. (2023). The development of a Japanese version of the State Cognitive Fusion Questionnaire. Japanese Psychological Research.  https://doi.org/10.1111/jpr.12453</li>
 <li>Kang, R. N., Tanaka, Y., Sato, T., Maeda, S., & Shimada, H. (2023). The development of a Japanese version of the State Cognitive Fusion Questionnaire. Japanese Psychological Research.  https://doi.org/10.1111/jpr.12453</li>  
 <li>佐藤 友哉・田中 恒彦・前田 駿太（2023）．制止学習アプローチに基づいたエクスポージャーの研究動向　心理学研究．https://doi.org/10.4992/jjpsy.94.21405</li>
 <li>森石 千尋・前田 駿太・嶋田 洋徳（2023）．セルフ・コンパッションの向上を目的とした短期介入が負担感の知覚と所属感の減弱に及ぼす影響　行動医学研究，27，30–38．https://doi.org/10.11331/jjbm.27.30</li>
