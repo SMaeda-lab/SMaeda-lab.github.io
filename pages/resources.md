@@ -15,7 +15,7 @@ Blackie & Kocovski (2017)で作成されたTrait and State Post-Event Processing
 【出典】<br>
 Maeda, S., Sato, T., Kanai, Y., Blackie, R. A., & Kocovski, N. L. (2021). Translation and Validation of the Japanese Version of the Trait and State Post-Event Processing Inventory. Japanese Psychological Research. https://doi.org/10.1111/jpr.12322
 
-### The Japanese version of Bedtime Procrastination Scale（日本語版就寝時刻の先延ばし尺度）<br>
+### The Japanese version of the Bedtime Procrastination Scale（日本語版就寝時刻の先延ばし尺度）<br>
 Kroese et al. (2014)のBedtime Procrastination Scaleの日本語版です。
 原版と同様に，就寝時刻の先延ばし（意図していたよりも遅く寝床に入ることであり，就寝を先延ばしするのに妥当な外的要因がなく，先延ばしによる悪影響が予測される場合）の頻度を測定します。
 論文，尺度項目ともにオープンアクセスでご覧になれます。出典を明示していただければ使用に際してのご連絡等は不要です。<br>
