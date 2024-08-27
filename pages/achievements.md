@@ -6,6 +6,7 @@ title: Achievements
 ## 学術論文（学会誌，査読有）
 <details><summary>表示</summary><div>
 <ol>
+<li>Moriishi, C., Izawa, S., Maeda, S., & Shimada, H.  (2024). Prolonged perceived stress predicts fingernail cortisol increase: A longitudinal study. Journal of Psychiatric Research. https://doi.org/10.1016/j.jpsychires.2024.08.034</li>
 <li>Miyagawa, S., Sato, T. & Maeda, S. (2024). Demographic predictors of bedtime procrastination in the Japanese population. Sleep and Biological Rhythms, 22, 199–206. https://doi.org/10.1007/s41105-023-00508-7</li>
 <li>Takahashi,K., Fujikawa, M., Ueno, T., Ogawa, M., Nakasato, N., & Maeda, S. (2023). Network analysis of the relationship between social support and quality of life in patients with epilepsy. Epilepsy and Behavior, 149, 109504. https://doi.org/10.1016/j.yebeh.2023.109504</li>
 <li>Kang, R. N., Tanaka, Y., Sato, T., Maeda, S., & Shimada, H. (2023). The development of a Japanese version of the State Cognitive Fusion Questionnaire. Japanese Psychological Research.  https://doi.org/10.1111/jpr.12453</li>  
@@ -76,12 +77,12 @@ title: Achievements
 ## 学会発表
 <details><summary>表示</summary><div>
 <ol>
-<li>前田 駿太・森石 千尋（2024）．日本語版単一項目主観的ストレスレベル尺度の妥当性　日本ストレスマネジメント学会第22回学術大会・研修会プログラム・抄録集，88．<li>
-<li>宮川 紫苑・佐藤 友哉・前田 駿太（2023）．日本における入床先延ばしを予測する人口統計学的要因　日本睡眠学会第45回定期学術集会・第30回日本時間生物学会学術大会 合同大会プログラム・抄録集，315．<li>
-<li>前田 駿太（2024）．ストレス反応がスマートフォン使用に及ぼす影響―習慣的使用による媒介効果の検証―　日本ストレスマネジメント学会第21回学術大会・研修会プログラム・抄録集，63．<li>
-<li>高橋 健人・前田 駿太（2023）．日本語版メンタルヘルスリテラシー尺度の因子構造の再検討　日本ストレスマネジメント学会第21回学術大会・研修会プログラム・抄録集，57．<li>
-<li>Li Chenyu・前田 駿太（2023）．知覚されたストレスと不眠症状との関係―就寝時の否定的な反復性思考による調整効果―　日本ストレスマネジメント学会第21回学術大会・研修会プログラム・抄録集，51．<li>
-<li>森谷 菜々絵・前田 駿太・吉田 沙蘭（2023）．家族介護者の関わりが小児IBD患者の精神的健康に及ぼす影響　第23回日本小児IBD研究会プログラム・抄録集，78．<li>
+<li>前田 駿太・森石 千尋（2024）．日本語版単一項目主観的ストレスレベル尺度の妥当性　日本ストレスマネジメント学会第22回学術大会・研修会プログラム・抄録集，88．</li>
+<li>宮川 紫苑・佐藤 友哉・前田 駿太（2023）．日本における入床先延ばしを予測する人口統計学的要因　日本睡眠学会第45回定期学術集会・第30回日本時間生物学会学術大会 合同大会プログラム・抄録集，315．</li>
+<li>前田 駿太（2024）．ストレス反応がスマートフォン使用に及ぼす影響―習慣的使用による媒介効果の検証―　日本ストレスマネジメント学会第21回学術大会・研修会プログラム・抄録集，63．</li>
+<li>高橋 健人・前田 駿太（2023）．日本語版メンタルヘルスリテラシー尺度の因子構造の再検討　日本ストレスマネジメント学会第21回学術大会・研修会プログラム・抄録集，57．</li>
+<li>Li Chenyu・前田 駿太（2023）．知覚されたストレスと不眠症状との関係―就寝時の否定的な反復性思考による調整効果―　日本ストレスマネジメント学会第21回学術大会・研修会プログラム・抄録集，51．</li>
+<li>森谷 菜々絵・前田 駿太・吉田 沙蘭（2023）．家族介護者の関わりが小児IBD患者の精神的健康に及ぼす影響　第23回日本小児IBD研究会プログラム・抄録集，78．</li>
 <li>川原 美希・本多 奈美・前田 駿太（2022）．大学生における社交不安症に関する知識と対処法の認識　日本健康心理学会第35回大会発表論文集，74．</li>
 <li>前田 駿太（2022）．セルフ・コンパッションがストレス反応の回復に及ぼす効果 　日本ストレスマネジメント学会第20回学術大会・研修会プログラム・抄録集, 53．</li>
 <li>Takahashi, K., Ogawa, M., Fujikawa, M., Nakasato, N., & Maeda, S. (2022). Help-seeking toward mental health professionals among patients with epilepsy. 36th Annual Conference of the European Health Psychology Society Abstracts, 462.</li>
