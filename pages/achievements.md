@@ -6,7 +6,7 @@ title: Achievements
 ## 学術論文（学会誌，査読有）
 <details><summary>表示</summary><div>
 <ol>
-<li>Moriishi, C., Izawa, S., Maeda, S., & Shimada, H.  (2024). Prolonged perceived stress predicts fingernail cortisol increase: A longitudinal study. Journal of Psychiatric Research. https://doi.org/10.1016/j.jpsychires.2024.08.034</li>
+<li>Moriishi, C., Izawa, S., Maeda, S., & Shimada, H.  (2024). Prolonged perceived stress predicts fingernail cortisol increase: A longitudinal study. Journal of Psychiatric Research, 179, 8-14. https://doi.org/10.1016/j.jpsychires.2024.08.034</li>
 <li>Miyagawa, S., Sato, T. & Maeda, S. (2024). Demographic predictors of bedtime procrastination in the Japanese population. Sleep and Biological Rhythms, 22, 199–206. https://doi.org/10.1007/s41105-023-00508-7</li>
 <li>Takahashi,K., Fujikawa, M., Ueno, T., Ogawa, M., Nakasato, N., & Maeda, S. (2023). Network analysis of the relationship between social support and quality of life in patients with epilepsy. Epilepsy and Behavior, 149, 109504. https://doi.org/10.1016/j.yebeh.2023.109504</li>
 <li>Kang, R. N., Tanaka, Y., Sato, T., Maeda, S., & Shimada, H. (2023). The development of a Japanese version of the State Cognitive Fusion Questionnaire. Japanese Psychological Research.  https://doi.org/10.1111/jpr.12453</li>  
