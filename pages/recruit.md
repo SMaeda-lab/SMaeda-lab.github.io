@@ -1,6 +1,6 @@
 ---
 layout: misc
-title: Recruit
+title: 研究参加者募集
 ---
 
 
