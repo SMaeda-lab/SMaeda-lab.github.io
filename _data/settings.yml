@@ -10,7 +10,7 @@ menu:
 # - {name: 'Home', folder: 'pages', file: 'index.html'}
 - {name: 'Research', folder: 'pages', file: 'research.html'}
 - {name: 'Team', folder: 'pages', file: 'team.html'}
-- {name: 'Achievements', folder: 'pages', file: 'achievements.html'}
+#- {name: 'Achievements', folder: 'pages', file: 'achievements.html'}
 - {name: 'Resources', folder: 'pages', file: 'resources.html'}
 - {name: 'Recruit', folder: 'pages', file: 'recruit.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
