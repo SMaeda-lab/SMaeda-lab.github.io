@@ -10,15 +10,19 @@ title: Team
 [所属機関Webサイト](https://www.sed.tohoku.ac.jp/laboratory/detail---id-42.html)<br>
 [Researchmap](https://researchmap.jp/maeda_s)<br>
 [Researchgate](https://www.researchgate.net/profile/Shunta-Maeda)<br>
-[Web of Science](https://www.webofscience.com/wos/author/record/1755327)<br>
 
-## 2025年度構成員<br>
+## 2026年度構成員<br>
 博士後期課程：1名<br>
 修士課程2年：1名<br>
-修士課程1年：1名<br>
+修士課程1年：0名<br>
 学部4年：1名<br>
 学部3年：1名<br>
 ## 卒業論文・修士論文・博士論文のテーマ<br>
+<details>
+<summary><b>2025年度</b></summary><br>
+  フードデリバリー利用と過食行動との関連（修士論文）<br>
+  入床前後の就寝時刻の先延ばしと睡眠時間との関連（卒業論文）<br>
+</details>
 <details>
 <summary><b>2024年度</b></summary><br>
   てんかん患者における心理的問題の援助要請プロセスに関する研究（博士論文）<br>
