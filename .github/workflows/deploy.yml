@@ -44,11 +44,10 @@ jobs:
           rm -rf ./_dist/.jekyll-cache ./_dist/.sass-cache
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-pages-artifact@v3  # 👈 専用のアクションに変更！
         with:
-          name: github-pages
-          path: ./_dist # アップロードする対象を、リンクのない綺麗なフォルダ（_dist）に変更します
-
+        path: ./_site
+      
   deploy:
     environment:
       name: github-pages
