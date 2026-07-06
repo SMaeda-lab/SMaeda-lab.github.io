@@ -35,15 +35,19 @@ jobs:
         run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
-          
-      - name: Clean cache before upload
-        run: rm -rf ./_site/.jekyll-cache ./_site/.sass-cache
+
+      # ↓ここ：シンボリックリンクを完全に排除し、安全な別フォルダ（./_dist）に実体ファイルとしてコピーします
+      - name: Flatten and copy artifact
+        run: |
+          mkdir -p ./_dist
+          cp -rL ./_site/* ./_dist/
+          rm -rf ./_dist/.jekyll-cache ./_dist/.sass-cache
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: github-pages
-          path: ./_site
+          path: ./_dist # アップロードする対象を、リンクのない綺麗なフォルダ（_dist）に変更します
 
   deploy:
     environment:
