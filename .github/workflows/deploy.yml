@@ -2,7 +2,7 @@ name: Deploy Jekyll site to Pages
 
 on:
   push:
-    branches: ["main"] # あなたのメインブランチ名（masterならmasterに変更）
+    branches: ["gh-pages"] # あなたのメインブランチ名（masterならmasterに変更）
   workflow_dispatch:
 
 permissions:
