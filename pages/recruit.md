@@ -12,7 +12,7 @@ title: Recruit
 ## 現在参加募集中の研究
 ■セルフヘルプ形式による睡眠改善プログラムの効果検証（謝礼あり）
 
-<img src="img/recruite260706.jpg">
+<img src="https://github.com/SMaeda-lab/SMaeda-lab.github.io/blob/gh-pages/assets/img/recruit260706.jpg?raw=true">
 
 参加を希望される方は，下記URLから，参加登録を行ってください。
 URL：https://calendly.com/miyagawa-shion-r3-dc/30min
