@@ -2,7 +2,7 @@ name: Deploy Jekyll site to Pages
 
 on:
   push:
-    branches: ["gh-pages"] # あなたのメインブランチ名（masterならmasterに変更）
+    branches: ["gh-pages"] # 正しいブランチ名（master）に合わせています
   workflow_dispatch:
 
 permissions:
@@ -20,9 +20,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        # Node.js 24への強制実行警告を消したい場合は以下を追記
-        with:
-          actions-node-version: '24'
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -30,12 +27,11 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3' # 必要に応じて使用しているRubyのバージョンに合わせてください
+          ruby-version: '3.3'
           bundler-cache: true
           cache-version: 1
 
       - name: Build with Jekyll
-        # Gemfileの依存関係エラーを回避しつつビルドします
         run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
@@ -43,7 +39,6 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          actions-node-version: '24' # Node.js警告対策
           name: github-pages
           path: ./_site
 
