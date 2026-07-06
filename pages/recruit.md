@@ -15,7 +15,7 @@ title: Recruit
 <img src="https://github.com/SMaeda-lab/SMaeda-lab.github.io/blob/gh-pages/assets/img/recruit260706.jpg?raw=true">
 ★本研究は東北大学川内南地区における「人を対象とする医学系研究」倫理審査委員会の承認を受けて実施されています（承認番号：2025-009）。
 
-参加を希望される方は，下記URLから，参加登録を行ってください。参加登録の前に，参加条件を満たしておられることをご確認ください。
+参加を希望される方は，下記URLから，参加登録を行ってください。参加登録の前に，参加条件を満たしておられることをご確認ください。  
 URL：<a href = "https://calendly.com/miyagawa-shion-r3-dc/30min">https://calendly.com/miyagawa-shion-r3-dc/30min</a>  
 
 研究責任者・問い合わせ先  
