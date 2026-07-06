@@ -32,7 +32,9 @@ jobs:
           cache-version: 1
 
       - name: Build with Jekyll
-        run: bundle exec jekyll build
+        run: |
+          gem install rexml
+          bundle exec jekyll build
         env:
           JEKYLL_ENV: production
 
