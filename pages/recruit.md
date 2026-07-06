@@ -14,8 +14,8 @@ title: Recruit
 
 <img src="https://github.com/SMaeda-lab/SMaeda-lab.github.io/blob/gh-pages/assets/img/recruit260706.jpg?raw=true">
 
-参加を希望される方は，下記URLから，参加登録を行ってください。
-URL：https://calendly.com/miyagawa-shion-r3-dc/30min
+参加を希望される方は，下記URLから，参加登録を行ってください。  
+URL：https://calendly.com/miyagawa-shion-r3-dc/30min  
 
-研究責任者・問い合わせ先
-前田駿太（教育学研究科・准教授）　E-mail：shunta.maeda.d2@tohoku.ac.jp
+研究責任者・問い合わせ先  
+前田駿太（教育学研究科・准教授）　E-mail：shunta.maeda.d2[at]tohoku.ac.jp
