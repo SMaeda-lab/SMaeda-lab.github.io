@@ -2,7 +2,7 @@ name: Deploy Jekyll site to Pages
 
 on:
   push:
-    branches: ["gh-pages"] # 正しいブランチ名（master）に合わせています
+    branches: ["gh-pages"] 
   workflow_dispatch:
 
 permissions:
@@ -36,7 +36,7 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      # ↓ここ：シンボリックリンクを完全に排除し、安全な別フォルダ（./_dist）に実体ファイルとしてコピーします
+     
       - name: Flatten and copy artifact
         run: |
           mkdir -p ./_dist
@@ -44,9 +44,9 @@ jobs:
           rm -rf ./_dist/.jekyll-cache ./_dist/.sass-cache
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3  # 👈 専用のアクションに変更！
+        uses: actions/upload-pages-artifact@v3 
         with:
-        path: ./_site
+          path: ./_site
       
   deploy:
     environment:
