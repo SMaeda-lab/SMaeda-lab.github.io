@@ -6,7 +6,7 @@ title: Achievements
 ## 学術論文（学会誌，査読有）
 <details><summary>表示</summary><div>
 <ol>
-<li>Maeda, S. & Moriishi, C. (2026), Translation and validation of the Japanese version of the Single-Item Subjective Level of Stress. Japanese Psychological Research. https://doi.org/10.1111/jpr.70040</li>
+<li>Maeda, S. & Moriishi, C. (2026). Translation and validation of the Japanese version of the Single-Item Subjective Level of Stress. Japanese Psychological Research. https://doi.org/10.1111/jpr.70040</li>
 <li>Miyagawa, S. & Maeda, S.（2026）．The effect of pre-sleep arousal on bedtime procrastination: A longitudinal study.  Behavioral Sleep Medicine　, 24, 189-199．https://doi.org/10.1080/15402002.2025.2576902</li>
 <li>Izagirre, N. I., Palmer, R., Schulz, A., Agostinho, M., Canaipa, R., Lima-Araujo, G., Maeda, S., Millon, E. M., Plans, D., Treister, R., Williams, I. A., & Murphy, J. (2026). Investigating the relationship between cardiac interoceptive accuracy and stress: A systematic review and meta-analysis. Neuroscience and biobehavioral reviews, 180, 106454. https://doi.org/10.1016/j.neubiorev.2025.106454</li>
 <li>Okazaki, K., Maeda,S., Koyama, Y, & Ohkawara, K. (2025).Association between light-intensity physical activity and health-related quality of life among students aged 9–14 years: A 5-year longitudinal assessment.Mental Health and Physical Activity,29,100705.https://doi.org/10.1016/j.mhpa.2025.100705</li>
