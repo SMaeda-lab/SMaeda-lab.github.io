@@ -6,9 +6,12 @@ title: Achievements
 ## 学術論文（学会誌，査読有）
 <details><summary>表示</summary><div>
 <ol>
-<li>Miyagawa, S. & Maeda, S.（2026）．The effect of pre-sleep arousal on bedtime procrastination: A longitudinal study.  Behavioral Sleep Medicine　Journal of Healthy Psychology Research, 24, 189-199．https://doi.org/10.1080/15402002.2025.2576902</li>
+<li>Maeda, S. & Moriishi, C. (2026), Translation and validation of the Japanese version of the Single-Item Subjective Level of Stress. Japanese Psychological Research. https://doi.org/10.1111/jpr.70040</li>
+<li>Miyagawa, S. & Maeda, S.（2026）．The effect of pre-sleep arousal on bedtime procrastination: A longitudinal study.  Behavioral Sleep Medicine　, 24, 189-199．https://doi.org/10.1080/15402002.2025.2576902</li>
 <li>Izagirre, N. I., Palmer, R., Schulz, A., Agostinho, M., Canaipa, R., Lima-Araujo, G., Maeda, S., Millon, E. M., Plans, D., Treister, R., Williams, I. A., & Murphy, J. (2026). Investigating the relationship between cardiac interoceptive accuracy and stress: A systematic review and meta-analysis. Neuroscience and biobehavioral reviews, 180, 106454. https://doi.org/10.1016/j.neubiorev.2025.106454</li>
+<li>Okazaki, K., Maeda,S., Koyama, Y, & Ohkawara, K. (2025).Association between light-intensity physical activity and health-related quality of life among students aged 9–14 years: A 5-year longitudinal assessment.Mental Health and Physical Activity,29,100705.https://doi.org/10.1016/j.mhpa.2025.100705</li>
 <li>川原 美希・本多 奈美・前田 駿太（2025）．日本人大学生における社交不安症に関するメンタルヘルスリテラシー 場面想定法を用いたオンライン調査　Journal of Healthy Psychology Research, 37, 69-78．</li>
+<li>Moriishi, C. & Maeda, S. Stress Generation in social anxiety: A longitudinal study of the role of post-event processing. Cognitive Therapy and Research, 49, 631–639. https://doi.org/10.1007/s10608-024-10567-w</li>
 <li>Moriishi, C., Izawa, S., Maeda, S., & Shimada, H.  (2024). Prolonged perceived stress predicts fingernail cortisol increase: A longitudinal study. Journal of Psychiatric Research, 179, 8-14. https://doi.org/10.1016/j.jpsychires.2024.08.034</li>
 <li>Miyagawa, S., Sato, T. & Maeda, S. (2024). Demographic predictors of bedtime procrastination in the Japanese population. Sleep and Biological Rhythms, 22, 199–206. https://doi.org/10.1007/s41105-023-00508-7</li>
 <li>Takahashi,K., Fujikawa, M., Ueno, T., Ogawa, M., Nakasato, N., & Maeda, S. (2023). Network analysis of the relationship between social support and quality of life in patients with epilepsy. Epilepsy and Behavior, 149, 109504. https://doi.org/10.1016/j.yebeh.2023.109504</li>
